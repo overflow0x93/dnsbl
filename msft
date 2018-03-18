@@ -15,17 +15,17 @@
 65.55.44.109      # web.vortex.data.microsoft.com	 	 
 199.59.103.8      # www.msftncsi.com	 	 
 191.232.80.60     # fe2.update.microsoft.com.akadns.net	 	 
-10.10.10.1        # telemetry
-157.56.109.8      # ui.skype.com	 	 
-23.198.5.216      # a23-198-5-216.deploy.static.akamaitechnologies.com	apps.skype.com	 	 
-40.97.100.50      # m.hotmail.com	 	 
-65.52.108.74      # s.gateway.messenger.live.com	 	 
-13.107.21.200     # a-0001.a-msedge.net	 	 
-65.55.163.222     # fe2.update.microsoft.com.akadns.net	 	 
-134.170.51.247    # fe2.update.microsoft.com.akadns.net	 	 
+10.10.10.1    # telemetry
+157.56.109.8    # ui.skype.com	 	 
+23.198.5.216    # a23-198-5-216.deploy.static.akamaitechnologies.com	apps.skype.com	 	 
+40.97.100.50    # m.hotmail.com	 	 
+65.52.108.74    # s.gateway.messenger.live.com	 	 
+13.107.21.200   # a-0001.a-msedge.net	 	 
+65.55.163.222   # fe2.update.microsoft.com.akadns.net	 	 
+134.170.51.247  # fe2.update.microsoft.com.akadns.net	 	 
 199.59.103.10		# www.msftncsi.com	 	 
 40.97.188.242		# m.hotmail.com	 	 
-40.97.100.2			# m.hotmail.com	 	 
+40.97.100.2		# m.hotmail.com	 	 
 40.97.190.18		# m.hotmail.com
 
 2.22.61.43
