@@ -1,12 +1,12 @@
 # Windows update urls for manual updates
-http://windowsupdate.microsoft.com
-http://*.windowsupdate.microsoft.com
-https://*.windowsupdate.microsoft.com
-http://*.update.microsoft.com
-https://*.update.microsoft.com
-http://*.windowsupdate.com
-http://download.windowsupdate.com
-http://download.microsoft.com
-http://*.download.windowsupdate.com
-http://test.stats.update.microsoft.com
-http://ntservicepack.microsoft.com
+2018-03-18T22:29+0100 http://windowsupdate.microsoft.com
+2018-03-18T22:29+0100 http://*.windowsupdate.microsoft.com
+2018-03-18T22:29+0100 https://*.windowsupdate.microsoft.com
+2018-03-18T22:29+0100 http://*.update.microsoft.com
+2018-03-18T22:29+0100 https://*.update.microsoft.com
+2018-03-18T22:29+0100 http://*.windowsupdate.com
+2018-03-18T22:29+0100 http://download.windowsupdate.com
+2018-03-18T22:29+0100 http://download.microsoft.com
+2018-03-18T22:29+0100 http://*.download.windowsupdate.com
+2018-03-18T22:29+0100 http://test.stats.update.microsoft.com
+2018-03-18T22:29+0100 http://ntservicepack.microsoft.com
