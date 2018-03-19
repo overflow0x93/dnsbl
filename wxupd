@@ -1,0 +1,12 @@
+# Windows update urls for manual updates
+http://windowsupdate.microsoft.com
+http://*.windowsupdate.microsoft.com
+https://*.windowsupdate.microsoft.com
+http://*.update.microsoft.com
+https://*.update.microsoft.com
+http://*.windowsupdate.com
+http://download.windowsupdate.com
+http://download.microsoft.com
+http://*.download.windowsupdate.com
+http://test.stats.update.microsoft.com
+http://ntservicepack.microsoft.com
